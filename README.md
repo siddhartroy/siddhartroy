@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sourav Roy Siddhart!!
+## Hi there 👋 I'm Sourav Roy Siddhart!
 
 # 💫 About Me:
 🔭 I’m currently working on Nextjs <br>🌱 I’m currently learning Kotlin
