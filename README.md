@@ -8,9 +8,6 @@ Thank you for visting my profile. 🙇 </br>
 🔭 I’m currently working on Nextjs projects. </br>
 🌞 I'm focusing on making some beautiful designs with pure CSS.
 
-![website-award-excellent-website](https://github.com/user-attachments/assets/4ff5062d-c04a-4bd3-953a-0a48111e0987)
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raygatsby11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reincarnated25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souravroysiddhart) 
 
