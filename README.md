@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Sourav Roy Siddhart!
 
+![deku-java](https://github.com/user-attachments/assets/ff7aaf4f-8cd5-457e-984b-ce64e25ff11b)
+
 # 💫 About Me:
 🔭 I’m currently working on Nextjs <br>🌱 I’m currently learning Kotlin
 
