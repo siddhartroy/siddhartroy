@@ -4,6 +4,10 @@ Thank you for visting my profile. 🙇 </br>
 ![azur-lane-anime](https://github.com/user-attachments/assets/5c631d31-a070-4cba-bca4-6495f0d23ab2) 
 
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@sidgatsby/30-nites-of-code)  
+  ![@sidgatsby #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sidgatsby)
+
 # 💫 About Me:
 🔭 I’m currently working on Nextjs projects. </br>
 🌞 I'm focusing on making some beautiful designs with pure CSS.
